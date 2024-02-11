@@ -15,15 +15,15 @@
 This project utilizes the LLMWare suite to integrate various NLP models into a single, user-friendly Gradio interface. It aims to simplify complex NLP tasks, making them accessible to both technical and non-technical users alike.
 
 ### Features
-Sentiment Analysis: Determine the sentiment expressed in the text.
-Emotion Detection: Identify the emotions conveyed.
-Tag Generation: Generate relevant tags for content categorization.
-Topic Identification: Discover the main topics discussed.
-Intent Recognition: Understand the intent behind the text.
-Rating Determination: Assign ratings based on sentiment.
-Category Classification: Classify text into predefined categories.
-Named Entity Recognition (NER): Identify and classify named entities.
-Natural Language Inference (NLI): Predict the logical relationship between sentences.
+```Sentiment Analysis```: Determine the sentiment expressed in the text.
+```Emotion Detection```: Identify the emotions conveyed.
+```Tag Generation```: Generate relevant tags for content categorization.
+```Topic Identification```: Discover the main topics discussed.
+```Intent Recognition```: Understand the intent behind the text.
+```Rating Determination```: Assign ratings based on sentiment.
+```Category Classification```: Classify text into predefined categories.
+```Named Entity Recognition (NER)```: Identify and classify named entities.
+```Natural Language Inference (NLI)```: Predict the logical relationship between sentences.
 
 1. Prerequisites
 Before you begin, ensure you have installed:
