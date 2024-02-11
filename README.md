@@ -39,3 +39,5 @@ Install the required dependencies:   ```pip install -r requirements.txt```
 3. Usage
 - To start the application, run the following command in your terminal:   ```python app.py```
 - The Gradio interface will open in your default web browser, where you can select the NLP tasks to perform and enter the text for analysis.
+  ![a](https://github.com/Blaqadonis/NLP_task_performer/assets/100685852/8536145d-aaa5-4378-a921-d2bfaee6180b)
+
